@@ -1,0 +1,19 @@
+.add-task{
+    width: 600px;
+    margin: 20px auto;
+}
+
+.add-task button{
+background: #b3b3ed;
+}
+
+.add-task button:hover{
+background: #9b9be2; 
+}
+
+.input-name{
+    padding:10px ;
+    margin-left:100px ;
+    border-radius: 10px;
+    font-size: 1em;
+}
